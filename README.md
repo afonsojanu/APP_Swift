@@ -1,2 +1,3 @@
 # Application Swift Pokemon
-Trabalho Final de Swfit
+Languages and Tools: Swift
+Description: Application of Pokédex pokemon
